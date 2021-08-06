@@ -89,19 +89,24 @@
 
 ## Materiais Complementares (*em construção*)
 
-21 Aprendizado com Reforço
+21 Aprendizado com Reforço |
+[Teoria] | [Lab]
 
-22 Auto ML
+22 Auto ML |
+[Teoria] | [Lab]
 
-23 Uso de Soluções de ML em Nuvem
+23 Uso de Soluções de ML em Nuvem |
+[Teoria] | [Lab]
 
-24 Análise de Sentimento
+24 Análise de Sentimento |
+[Teoria] | [Lab]
 
-25 Limitações e Aspectos Éticos do Aprendizado de Máquina
+25 Limitações e Aspectos Éticos do Aprendizado de Máquina |
+[Teoria] 
 
-26 Pipelines de ML
+26 Pipelines de ML |
+[Teoria] | [Lab]
 
-27 Aspectos Éticos do Aprendizado de Máquina
 
 <br />
 
