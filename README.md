@@ -103,6 +103,8 @@
 
 27 Aspectos Éticos do Aprendizado de Máquina
 
+<br />
+
 (\*) *Alguns materiais são adicionais não sendo utilizados em sala. Pode haver também variações nos materiais empregados de um semestre ou de uma turma para outra.*
 
 <br />
