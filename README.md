@@ -10,7 +10,7 @@
 [Teoria](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T1__Introducao_Ciencia_de_Dados_e_ML.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T1__Introducao_Ciencia_de_Dados_e_ML_Lab.ipynb)
   
-2 Exploração Inicial dos Dados *em construção* |
+2 Exploração Inicial dos Dados |
 [Teoria] | [Lab]
 
 ## Modelos Estatísticos
@@ -23,12 +23,12 @@
 [Teoria](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T4_Regressao_Linear.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T4_Regressao_Linear_Lab.ipynb)
 
-5 Modelos de Séries Temporais *em construção* |
+5 Modelos de Séries Temporais |
 [Teoria] | [Lab]
 
 ## Aprendizado Supervisionado
 
-6 Regressão Logística *em construção* |
+6 Regressão Logística |
 [Teoria] | [Lab]
 
 7 K-Vizinhos mais Próximos |
@@ -39,7 +39,7 @@
 [Teoria](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T8_Arvores_de_Decisao.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T8_Arvores_de_Decisao_Lab.ipynb)
 
-9 Naive Bayes *em construção* |
+9 Naive Bayes |
 [Teoria] | [Lab]
 
 10 Outros Modelos: Random Forest, SVM |
@@ -56,16 +56,16 @@
 [Teoria](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T12_HCluster.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T12_HCluster_Lab.ipynb)
 
-13 Regras de Associação *em construção* |
+13 Regras de Associação |
 [Teoria] | [Lab]
 
-14 Análise de Componentes Principais *em construção* |
+14 Análise de Componentes Principais |
 [Teoria] | [Lab]
 
-15 Detecção de Anomalias *em construção* |
+15 Detecção de Anomalias |
 [Teoria] | [Lab]
 
-16 Sistemas de Recomendação *em construção* |
+16 Sistemas de Recomendação |
 [Teoria] | [Lab]
 
 ## Modelos Neurais
@@ -74,28 +74,36 @@
 [Teoria](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T17_Redes_Neurais.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T17_Redes_Neurais_Lab.ipynb)
 
-18 Introdução a Deep Learning *em construção* |
+18 Introdução a Deep Learning |
 [Teoria] | [Lab]
 
 ## Dados Texto e Imagens
 
-19 Textos *em construção* |
+19 Textos |
 [Teoria] | [Lab]
 
-20 Imagens *em construção* |
+20 Imagens |
 [Teoria] | [Lab]
 
-## Materiais Complementares *em construção*
+<br />
+
+## Materiais Complementares (*em construção*)
 
 21 Aprendizado com Reforço
+
 22 Auto ML
+
 23 Uso de Soluções de ML em Nuvem
+
 24 Análise de Sentimento
+
 25 Limitações e Aspectos Éticos do Aprendizado de Máquina
+
 26 Pipelines de ML
+
 27 Aspectos Éticos do Aprendizado de Máquina
 
-(\*) *Alguns materiais são adicionais não sendo utilizados em sala e pode haver variações nos materiais empregados, de um semestre ou de uma turma para outra.*
+(\*) *Alguns materiais são adicionais não sendo utilizados em sala. Pode haver também variações nos materiais empregados de um semestre ou de uma turma para outra.*
 
 <br />
 
