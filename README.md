@@ -10,7 +10,7 @@
 [Teoria](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T1__Introducao_Ciencia_de_Dados_e_ML.ipynb) |
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T1__Introducao_Ciencia_de_Dados_e_ML_Lab.ipynb)
   
-2 Exploração Inicial dos Dados |
+2 EDA Exploração Inicial dos Dados |
 [Teoria] | [Lab]
 
 ## Modelos Estatísticos
