@@ -11,8 +11,13 @@
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T1__Introducao_Ciencia_de_Dados_e_ML_Lab.ipynb)
   
 2 EDA Exploração Inicial dos Dados |
-[Teoria] | [Lab]
+[Teoria](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T2_EDA.ipynb) | 
+[Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T2_EDA_Lab.ipynb)
 
+> [Complementar - Seleção e Organização de Dados com Pandas](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T2_Pandas.ipynb)
+
+> [Complementar - Visualização dos Dados com Matplotlib e Seaborn](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T2_Visualizacao.ipynb)
+> 
 ## Modelos Estatísticos
 
 3 Testes de Hipóteses |
