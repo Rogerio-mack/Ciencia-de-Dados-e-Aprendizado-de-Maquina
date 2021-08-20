@@ -17,7 +17,10 @@
 > [Complementar - Seleção e Organização de Dados com Pandas](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T2_Pandas.ipynb)
 
 > [Complementar - Visualização dos Dados com Matplotlib e Seaborn](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T2_Visualizacao.ipynb)
-> 
+
+>> [Python_Cheat_Sheet pdf](https://github.com/Rogerio-mack/Analise-de-Dados/blob/main/Python%20Cheat%20Sheet.pdf)
+ |  [Python_Cheat_Sheet Notebook](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/Python_Cheat_Sheet.ipynb)
+
 ## Modelos Estatísticos
 
 3 Testes de Hipóteses |
