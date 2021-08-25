@@ -21,6 +21,11 @@
 >> [Python_Cheat_Sheet pdf](https://github.com/Rogerio-mack/Analise-de-Dados/blob/main/Python%20Cheat%20Sheet.pdf)
  |  [Python_Cheat_Sheet Notebook](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/Python_Cheat_Sheet.ipynb)
 
+>> [Pandas Cheat Sheet pdf](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
+>> [Matplotlib Cheat Sheet png](https://github.com/matplotlib/cheatsheets/blob/master/handout-beginner.png)
+
+
 ## Modelos Estatísticos
 
 3 Testes de Hipóteses |
