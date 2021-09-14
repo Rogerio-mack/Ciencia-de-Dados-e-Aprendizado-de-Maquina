@@ -42,7 +42,7 @@
 ## Aprendizado Supervisionado
 
 6 Regressão Logística |
-[Teoria] | [Lab]
+[Teoria](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica.ipynb) | [Lab]
 
 7 K-Vizinhos mais Próximos |
 [Teoria](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T7_Knn.ipynb) |
