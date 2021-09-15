@@ -45,7 +45,7 @@
 [Teoria](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica.ipynb) | 
 [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Regressao_Logistica_Lab.ipynb) 
 
-> [Complementar - Diferenças Regressão Linear e Logística](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Compare_Regressao_Linear_e_Logistica.ipynb) *vaje aqui também Conjuntos de Treinamento x Teste
+> [Complementar - Diferenças Regressão Linear e Logística](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T6_Compare_Regressao_Linear_e_Logistica.ipynb) *veja aqui também Conjuntos de Treinamento x Teste*
 
 7 K-Vizinhos mais Próximos |
 [Teoria](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T7_Knn.ipynb) |
