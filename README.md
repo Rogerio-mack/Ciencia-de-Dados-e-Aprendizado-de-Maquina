@@ -59,7 +59,8 @@
 [Teoria] | [Lab]
 
 10 Outros Modelos: Random Forest, SVM |
-[Teoria](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T10_Outros_Modelos_Sup.ipynb) |
+[Teoria](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T10_Esquema_Geral_de_Classificacao.ipynb) |
+[Teoria old](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T10_Outros_Modelos_Sup.ipynb) |
 [Lab]
 
 ## Aprendizado não Supervisionado
