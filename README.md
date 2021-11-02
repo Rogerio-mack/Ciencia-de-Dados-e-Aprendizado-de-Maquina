@@ -86,7 +86,7 @@
 [Teoria] | [Lab]
 
 16 Sistemas de Recomendação |
-[Teoria] | [Lab]
+[Teoria](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T16_Recommentadion_Systems.ipynb) | [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T16_Recommentadion_Systems_Lab.ipynb)
 
 ## Modelos Neurais
 
