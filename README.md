@@ -99,8 +99,8 @@
 
 ## Dados Texto e Imagens
 
-19 Textos |
-[Teoria] | [Lab]
+19 Trabalhando com Textos NLP |
+[Teoria](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/ACD_T19_NLP.ipynb) | [Lab](https://colab.research.google.com/github/Rogerio-mack/Ciencia-de-Dados-e-Aprendizado-de-Maquina/blob/main/T17_NLP_Lab.ipynb)
 
 20 Imagens |
 [Teoria] | [Lab]
